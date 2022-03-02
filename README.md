@@ -10,6 +10,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://img2.gratispng.com/20180707/kte/kisspng-microsoft-sql-server-computer-icons-sql-icon-5b4047d35ffc86.4759650115309393473932.jpg">
+  <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://w7.pngwing.com/pngs/79/858/png-transparent-sql-computer-icons-query-language-database-font-column-text-logo-monochrome.png">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
