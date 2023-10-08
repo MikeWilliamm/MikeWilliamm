@@ -7,7 +7,9 @@ Possuo familiaridade com data mart, data warehouse , data lake, processamento de
 
 - 🎯 Hard skills:
 Domínio avançado: Python, SQL, PostgreSQL, GCP: Google Cloud Platform (Google Cloud Storage, BigQuery), Google Data Studio | Luker Studio, Git e GitHub.
+
 Conhecimento intermediário: JasperReports, Power BI, Apache AirFlow e Spark
+
 Aperfeiçoando habilidades: Língua inglesa, AWS: Amazon Web Services e NoSQL.
 
 
