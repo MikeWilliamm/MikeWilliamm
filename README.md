@@ -1,7 +1,15 @@
 ## Olá! Eu Sou Mike!
 
-- 🔭 Hoje trabalho com Data Intelligence
-- 🌱 Python
+- 🔭 Trabalho com Data Intelligence
+
+- 🌱 Expertise:
+Possuo familiaridade com data mart, data warehouse , data lake, processamento de dados em lote, SQL com comandos DQL, DML, DDL em sistemas gerenciadores de bancos de dados, consultas estruturadas de alto desempenho possibilitando a extração de informações valiosas de grandes conjuntos de dados, processos ETL/ELT, Web crawler e Web scraper, orquestração de pipelines de dados, ingestão de dados via API, programação procedural e programação orientada a objetos, desenvolvimento orientado por testes (TDD), controle e versionamento de código, a construção da visualização de dados por meio de dashboards, e Business Intelligence (B.I).
+
+- 🎯 Hard skills:
+Domínio avançado: Python, SQL, PostgreSQL, GCP: Google Cloud Platform (Google Cloud Storage, BigQuery), Google Data Studio | Luker Studio, Git e GitHub.
+Conhecimento intermediário: JasperReports, Power BI, Apache AirFlow e Spark
+Aperfeiçoando habilidades: Língua inglesa, AWS: Amazon Web Services e NoSQL.
+
 
 <div align="center">
   <a href="https://github.com/MikeWilliamm">
