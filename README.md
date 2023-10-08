@@ -1,6 +1,7 @@
 ## Olá! Eu Sou Mike!
 
-- 🔭 Trabalho com Inteligencia de dados, conhecimento e experiencia na engenharia, analise e visualização de dados.
+- 🔭 <b>Resumo profissional:<b><br>
+Trabalho com inteligência de dados, conhecimento e experiencia na engenharia, analise e visualização de dados.<br>
 
 - 🌱 <b>Expertise:<b><br>
 Possuo familiaridade com data mart, data warehouse , data lake, processamento de dados em lote, SQL com comandos DQL, DML, DDL em sistemas gerenciadores de bancos de dados, consultas estruturadas de alto desempenho possibilitando a extração de informações valiosas de grandes conjuntos de dados, processos ETL/ELT, Web crawler e Web scraper, orquestração de pipelines de dados, ingestão de dados via API, programação procedural e programação orientada a objetos, desenvolvimento orientado por testes (TDD), controle e versionamento de código, a construção da visualização de dados por meio de dashboards, e Business Intelligence (B.I).
